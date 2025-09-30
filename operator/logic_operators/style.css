@@ -1,0 +1,11 @@
+h1 {
+  font-size: 5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: cyan;
+  text-align: center;
+}
+
+body {
+  background-color: #222;
+}
